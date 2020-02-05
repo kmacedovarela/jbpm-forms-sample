@@ -9,3 +9,9 @@ This is a sample project to demonstrate how the form modeler tool from business 
 - Local Date Time
 
 It also has some tips on the fields, nested forms, and read-only fields.
+
+Process Form:
+
+![Form](images/process-form.png)
+
+
